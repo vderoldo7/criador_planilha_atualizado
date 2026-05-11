@@ -178,12 +178,3 @@ Desenvolvido por **Vitor Viana Carneiro Deroldo**.
 ## 📌 Status do projeto
 
 ✅ Projeto funcional
-
-### Possíveis melhorias futuras
-
-- Permitir edição de planilhas já existentes.
-- Adicionar suporte para arquivos `.csv`.
-- Permitir escolha do nome da aba da planilha.
-- Adicionar validação de campos.
-- Melhorar o design da interface.
-- Permitir múltiplas abas no arquivo Excel.
